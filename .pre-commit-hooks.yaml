@@ -1,0 +1,5 @@
+-   id: check-poetry-version
+    name: check-poetry-version
+    entry: check-poetry-version.sh
+    language: script
+    args: []
